@@ -1,4 +1,4 @@
-## Powerpuff project
+## ABN assignment project
 
 ### Motivation
 To retrieve and display tv shows information provided by [TV Maze API](http://www.tvmaze.com/api).
